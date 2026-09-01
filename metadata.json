@@ -1,0 +1,6 @@
+{
+  "name": "MuscleComm",
+  "description": "App that detects muscle contractions via phone sensors and provides vibration feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
