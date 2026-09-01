@@ -27,7 +27,7 @@ jobs:
       - name: Generate debug keystore
         run: |
           keytool -genkeypair -v \
-            -keystore app/debug.keystore \
+            -keystore debug.keystore \
             -storepass android \
             -alias androiddebugkey \
             -keypass android \
